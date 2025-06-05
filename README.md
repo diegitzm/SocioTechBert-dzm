@@ -1,4 +1,5 @@
 GBERT-Based Text Classifiers: Institutional Domains & Tech Sentiment
+
 This repository provides two fine-tuned GBERT-base models for German-language text classification tasks:
 
 Institutional Domain Classification (5 classes)
